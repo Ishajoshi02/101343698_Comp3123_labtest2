@@ -7,7 +7,7 @@ A simple, user-friendly ReactJS application that displays the current weather fo
 ## Screenshots
 
 ### Homepage
-![Homepage](./screenshots/homepage.png)
+![Homepage](https://github.com/Ishajoshi02/101343698_Comp3123_labtest2/blob/main/Screenshots1/Picture1.png)
 
 ### Weather Data
 ![Weather Data](./screenshots/weather-data.png)
